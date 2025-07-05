@@ -1,9 +1,11 @@
 Brick Breaker Game Guide
+
 Welcome to the Brick Breaker game! This guide will help you understand how to play, the rules, and the game mechanics.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Objective
+
 The goal of the game is to destroy all the bricks on the screen using a ball that bounces off your paddle while avoiding losing all your lives.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
